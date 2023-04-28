@@ -1,0 +1,154 @@
+.container-image-info-podcast{
+  display: flex;
+  justify-content: center;
+   
+
+}
+
+.podCast-container-info{
+    display: flex;
+    width: 300px;
+    justify-content: center;
+    box-shadow: -2px 5px 4px 2px rgb(221 221 221 / 30%), 2px 5px 4px 2px rgb(221 221 221 / 30%), 0px 5px 4px 2px rgb(221 221 221 / 30%);
+    margin-left: 50px;
+    flex-wrap: wrap;
+
+}
+
+.div-title-description{
+    margin: 0 30px;
+    
+}
+
+.audio-source{
+    margin: 30px 30px 0;
+    width: 800px;
+    padding-bottom: 30px;
+}
+
+.header-episode{
+    margin: 0 30px;
+}
+
+.footer-source-audio{
+    display: flex;    
+}
+
+
+.div-main-container{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+
+}
+
+.artist-name-container{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.podCast-minutes-list{
+  
+    box-shadow: -2px 5px 4px 2px rgb(221 221 221 / 30%), 2px 5px 4px 2px rgb(221 221 221 / 30%), 0px 5px 4px 2px rgb(221 221 221 / 30%);
+}
+
+.artist-name-container{
+    width: 250px;
+}
+
+.episodes-container{
+    display: flex;
+    flex-direction: column;
+    margin-left: 100px;
+    width: 50rem;
+}
+
+.table-container-div {
+    margin-top: 50px;
+    width: 100%;
+    padding-bottom: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: -2px 5px 4px 2px rgb(221 221 221 / 30%), 2px 5px 4px 2px rgb(221 221 221 / 30%), 0px 5px 4px 2px rgb(221 221 221 / 30%);
+  }
+  
+  table {
+    width: 100%;
+    height: 100%;
+    margin: 30px 30px 30px 30px;
+  }
+  
+
+  .link-episodes{
+    text-decoration: none;
+    color:rgb(98, 135, 238)
+  }
+
+  .container{
+    padding-top: 50px;
+   
+}
+
+.search-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+    height: 40px;
+}
+
+.number-search{
+    display: flex;
+    justify-content: end;
+    width: 70rem;
+}
+
+.both-entries{
+    display: flex;
+    align-items: center;
+}
+
+
+.search-result-count{
+    color: #fff;
+    background-color: #0077be;
+    border-radius: 10px;
+    width: 100px;
+    height: 50px;
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 10px;
+
+}
+  
+.search-input {
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    width: 300px;
+    height: 30px;
+    padding: 5px;
+    font-size: 16px;
+    outline: none;
+    transition: border-color 0.3s ease-in-out;
+  }
+  
+  .container-fourSongs{
+    padding-top: 75px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+  
+.songs-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    width: 80rem;
+    row-gap: 150px;
+    
+}
+
+  
