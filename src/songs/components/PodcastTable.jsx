@@ -3,7 +3,7 @@ import { getDataAndDate } from '../../podcast/helpers/getDataAndDate'
 import { Link } from 'react-router-dom'
 
 export const PodcastTable = ({response}) => {
-    console.log(response)
+ 
   return (
         <>
             <div className='podCast-minutes-list'>
